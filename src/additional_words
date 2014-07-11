@@ -1,0 +1,107 @@
+# maincol_id
+msgid "ID of Your Main Column"
+msgstr ""
+
+# sidebar_id
+msgid "ID of Your Sidebar"
+msgstr ""
+
+# widget_class
+msgid "Class of Widgets"
+msgstr ""
+
+# readable_js
+msgid "Readable .js File"
+msgstr ""
+
+# accordion_widget
+msgid "Accordion Widgets"
+msgstr ""
+
+# heading_marker
+msgid "Icons for Heading"
+msgstr ""
+
+# enable_css
+msgid "Include Default CSS for Icons"
+msgstr ""
+
+# single_expansion
+msgid "Single Expansion Mode"
+msgstr ""
+
+# slide_duration
+msgid "Slide Duration (ms)"
+msgstr ""
+
+# heading_string
+msgid "Selector for Headings"
+msgstr ""
+
+# accordion_widget_areas
+msgid "Widget area IDs in which AW is effective (optional, comma delimited)"
+msgstr ""
+
+# custom_selectors
+msgid "Custom Widget Selectors (will override default)"
+msgstr ""
+
+# scroll_stop
+msgid "Sticky Sidebar"
+msgstr ""
+
+# scroll_mode
+msgid "Quick Switchback Mode"
+msgstr ""
+
+# recalc_after
+msgid "Recalc Timer (sec, 0=never)"
+msgstr ""
+
+# ignore_footer
+msgid "Ignore Footer (for Infinite Scroll Pages)"
+msgstr ""
+
+# proportional_sidebar
+msgid "Proportional Sidebar (width in percent, 0=fixed)"
+msgstr ""
+
+# disable_iflt
+msgid "Disable if the window width is less than"
+msgstr ""
+
+# 2nd:ID
+msgid "[2nd] ID of the 2nd Sidebar"
+msgstr ""
+
+# 2nd:proportional_sidebar
+msgid "[2nd] Proportional Sidebar"
+msgstr ""
+
+# 2nd:disable_iflt
+msgid "[2nd] Disable the 2nd sidebar if the window width is less than"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "Disable"
+msgstr ""
+
+msgid "Disable (minimized)"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "Yes (Recommended)"
+msgstr ""
+
+msgid "No"
+msgstr ""
