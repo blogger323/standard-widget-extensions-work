@@ -30,6 +30,16 @@ msgstr ""
 msgid "Single Expansion Mode"
 msgstr ""
 
+# initially_collapsed
+msgid "Initial State"
+msgstr ""
+
+msgid "Initially Collapsed"
+msgstr ""
+
+msgid "Leave them as styled"
+msgstr ""
+
 # slide_duration
 msgid "Slide Duration (ms)"
 msgstr ""
@@ -58,12 +68,24 @@ msgstr ""
 msgid "Recalc Timer (sec, 0=never)"
 msgstr ""
 
+# recalc_count
+msgid "Recalc Count"
+msgstr ""
+
+# header_space
+msgid "Header Space"
+msgstr ""
+
 # ignore_footer
 msgid "Ignore Footer (for Infinite Scroll Pages)"
 msgstr ""
 
 # proportional_sidebar
 msgid "Proportional Sidebar (width in percent, 0=fixed)"
+msgstr ""
+
+# enable_reload_me
+msgid "Reload-me Warning After Resizing"
 msgstr ""
 
 # disable_iflt
